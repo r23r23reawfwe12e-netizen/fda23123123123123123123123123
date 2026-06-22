@@ -37,8 +37,7 @@
   "prisma": {
     "seed": "tsx prisma/seed.ts"
   }
-}
-=======
+},
 {
   "name": "selfquest-bot",
   "version": "1.0.0",
